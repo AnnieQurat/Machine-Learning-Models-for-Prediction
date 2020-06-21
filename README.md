@@ -1,9 +1,5 @@
 # Machine-Learning-Models-for-Prediction
 
-## Contents
-
-1. [Short description](#short-description)
-
 ## Short description
 
 ### What's the problem?
