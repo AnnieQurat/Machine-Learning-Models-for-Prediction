@@ -1,4 +1,4 @@
-# Machine-Learning-Models-for-Prediction
+# Predicting Car Prices
 
 ## Short description
 
